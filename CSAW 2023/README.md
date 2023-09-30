@@ -5,6 +5,7 @@
 
 ## Reverse Engineering
 - [Baby's First](https://github.com/Hole-In-One-CyberSec/El-Khabi-CTF-Writeups/tree/main/CSAW%202023/Rev/Baby's%20First) by JustKhal
+- [Baby's Third](https://github.com/Hole-In-One-CyberSec/El-Khabi-CTF-Writeups/tree/main/CSAW%202023/Rev/Baby's%20Third) by Severable
 - [Rebug 1](https://github.com/Hole-In-One-CyberSec/El-Khabi-CTF-Writeups/tree/main/CSAW%202023/Rev/Rebug%201) by JustKhal
 - [whataxor](https://github.com/Hole-In-One-CyberSec/El-Khabi-CTF-Writeups/tree/main/CSAW%202023/Rev/whataxor) by JustKhal
 
