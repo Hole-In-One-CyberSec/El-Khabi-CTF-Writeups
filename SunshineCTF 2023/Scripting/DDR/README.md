@@ -1,4 +1,4 @@
-# TITLE
+# DDR
 #### Write-up author : [JustKhal](https://github.com/JustKhal)
 ## DESCRIPTION:
 All the cool robots are playing Digital Dance Robots, a new rythmn game that... has absolutely no sound! Robots are just that good at these games... until they crash because they can't count to 256. Can you beat the high score and earn a prize?
